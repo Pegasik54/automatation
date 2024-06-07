@@ -19,4 +19,4 @@ def print_9():
 def print_0():
     print(0, end="")
 
-print_8(), print_8(), print_0(), print_0(), print_5(), print_5(), print_5(), print_3(), print_5(), print_3(), print_5()
+
