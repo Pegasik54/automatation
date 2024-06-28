@@ -47,6 +47,9 @@ driver = webdriver.Firefox(service=FirefoxService(GeckoDriverManager().install()
    
 #     blue_button = driver.find_element(By.XPATH, '//button[contains(@class, "btn-primary")]')
 #     blue_button.send_keys(Keys.RETURN)
+
+#     alert = driver.switch_to.alert
+#     alert.accept()
         
 #     sleep(3)
     
